@@ -1,0 +1,4 @@
+/db/geolocator_development
+/db/geolocator_test
+/public/assets*
+/tmp

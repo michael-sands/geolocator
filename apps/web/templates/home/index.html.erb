@@ -1,0 +1,4 @@
+IP: <%= @my_ip %>
+<% if @result.found? %>
+  country: <%= @result.country.iso_code %>
+<% end %>
