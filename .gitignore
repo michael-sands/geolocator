@@ -1,4 +1,5 @@
 /db/geolocator_development
 /db/geolocator_test
+/db/GeoLite2-Country.mmdb
 /public/assets*
 /tmp
